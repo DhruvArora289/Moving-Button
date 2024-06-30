@@ -1,0 +1,39 @@
+body{
+    background-image: url('pexels-asad-photo-maldives-1024984.jpg');
+    background-size: cover;
+    background-position: center;
+    /* height: 100vh; */
+    background-repeat: no-repeat;
+    text-align: left;
+    margin-top: 90px;
+    padding-left: 60px;
+}
+p{
+    font-size: 70px;
+    font-family: 'Crimson Pro', serif;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.buttons {
+    margin-top: 20px; 
+    margin-left: 135px;
+}
+
+button{
+    margin-top: 80px;
+    height: 60px;
+    width: 130px;
+    border-radius: 50px;
+    background-color: rgba(233, 233, 155, 0.829);
+    border: solid 2px black;
+    cursor: pointer;
+}
+
+.bt2{
+    position: relative;
+    transition: transform 0.3s ease-in-out;
+}

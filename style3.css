@@ -1,0 +1,26 @@
+body{
+    background-image: url('pexels-asad-photo-maldives-1024984.jpg');
+    background-size: cover;
+    background-position: center;
+    /* height: 100vh; */
+    background-repeat: no-repeat;
+    text-align: left;
+    margin-top: 90px;
+    padding-left: 30px;
+}
+
+p{
+    font-size: 30px;
+    margin-top: 20px;
+    font-family: 'Crimson Pro', serif;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    height: 500px;
+    width: 500px;
+}
